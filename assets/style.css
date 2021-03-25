@@ -9,10 +9,14 @@ textarea {
   background: transparent;
   border: none;
   resize: none;
-  color: #000000;
+  color: #ff0000;
   border-left: 1px solid black;
   padding: 10px;
   width: 60%;
+}
+
+textarea:focus {
+  border: #000000 solid 1px;
 }
 
 .jumbotron {
@@ -54,7 +58,7 @@ textarea {
 /* Colours the time slots according to local user time */
 .past {
   background-color: #d3d3d3;
-  color: white;
+  color: rgb(0, 0, 0);
 }
 .present {
   background-color: #ff6961;
