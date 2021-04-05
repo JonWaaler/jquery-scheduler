@@ -18,6 +18,10 @@ To create a fully functional app using what I've learned in jQuery. I use [day.j
 
 https://jonwaaler.github.io/jquery-scheduler/
 
+## Web Preview
+
+(!Alt Text)[https://i.imgur.com/NyAAskL.png]
+
 ## Contribution
 
 Made with ❤️ by Jon Waaler ✌
