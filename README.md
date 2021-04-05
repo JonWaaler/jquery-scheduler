@@ -20,7 +20,7 @@ https://jonwaaler.github.io/jquery-scheduler/
 
 ## Web Preview
 
-(!AltText)[https://i.imgur.com/NyAAskL.png]
+![Alt text](https://i.imgur.com/NyAAskL.png)
 
 ## Contribution
 
